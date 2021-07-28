@@ -4,10 +4,10 @@
 ## 참고 :  https://github.com/LeeSeungwon89/Lecture-and-self-study
 
 
-Updated at 16:17 PM on 21.7.28.
+Updated at 16:23 PM on 21.7.28.
 
-저작권 이슈를 방지하고자 저장소를 프라이빗으로 전환했습니다. 업로드 중인 저장소는 Lecture-and-self-study입니다.
-저장소 이름을 Self-study로 변경했으며, 강의 내용만을 따로 정리하는 저장소인 Data Science Lecture를 생성했습니다.
+저작권 이슈를 방지하고자 업로드 중인 저장소 Lecture-and-self-study를 프라이빗으로 전환했습니다.
+이 저장소 이름을 Self-study로 변경했으며, 강의 내용만을 따로 정리하는 저장소인 Data Science Lecture를 따로 생성했습니다.
 
 # 머신러닝 개념 정리 프로젝트
 
