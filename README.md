@@ -4,7 +4,7 @@
 ## 참고 :  https://github.com/LeeSeungwon89/Lecture-and-self-study
 
 
-Updated at 15:16 PM on 21.7.28.
+Updated at 16:17 PM on 21.7.28.
 
 저작권 이슈를 방지하고자 프라이빗으로 전환했습니다. 본래 폴더는 Lecture-and-self-study입니다.
 
