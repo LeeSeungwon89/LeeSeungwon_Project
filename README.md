@@ -3,7 +3,7 @@
 
 ## 참고 :  https://github.com/LeeSeungwon89/Lecture-and-self-study
 
-Updated at 12:17 AM on 21.7.29.
+Updated at 2:55 PM on 21.8.2.
 
 # 머신러닝 개념 정리 프로젝트
 
