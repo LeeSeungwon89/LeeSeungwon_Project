@@ -3,7 +3,7 @@
 
 ## 참고 :  https://github.com/LeeSeungwon89/Lecture-and-self-study
 
-Updated at 10:25 PM on 21.9.14.
+Updated at 12:51 AM on 21.9.18.
 
 ## Easy to understanding Machine Learning Theory
 
@@ -38,3 +38,4 @@ p.s. 제 repository에 방문해주신 어떤 분이든 오류가 있는 부분�
 제게는 어떤 지적이든 훈수가 아닌 소중한 조언이며 성장 원동력입니다.
 
 항상 건강하셨으면 좋겠습니다. 고맙습니다.
+
